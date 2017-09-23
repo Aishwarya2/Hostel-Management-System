@@ -1,0 +1,13 @@
+body
+   {
+    background: url(../Images/paisley.png); 
+   }
+  
+   @font-face{
+   font-family:'Brandon';
+   src:url(../fonts/Brandon.otf);
+   }
+   
+   *{
+   font-family:'Brandon';
+   }
